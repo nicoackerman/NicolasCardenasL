@@ -15,21 +15,21 @@
 
 * [Link to my website or portfolio]
 
-* **Development Skills:**
+**Development Skills:**
 * Javascript and Typescript.
 * Python.
 * Git y Github.
 * Docker.
 * React.
   
-* **Technical Skills Base On:**
+**Technical Skills Base On:**
 * Computer Science.
 * Sytems Engenieering.
   
-* **Education:**
+**Education:**
 * Platzi.
 * University for Development and Investigation (Barancabermeja/Columbia)
   
-* **Contributions:**
+**Contributions:**
   
 
