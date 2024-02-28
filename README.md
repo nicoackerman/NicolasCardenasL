@@ -1,16 +1,35 @@
 ### Hi there 👋
 
-<!--
-**NicolasCardenasL/NicolasCardenasL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hi there, I'm Nicolas!**
 
-Here are some ideas to get you started:
+**A little bit about me:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I'm passionate about [My interests or hobbies related to tech].
+* I'm always learning and growing, currently focusing on [Skills you're learning].
+* I'm always up for a challenge and enjoy working on [Types of projects you enjoy].
+
+**My Projects:**
+* Finacial app for National Statistics in Colombia
+
+**Connect with me:**
+
+* [Link to my website or portfolio]
+
+* **Development Skills:**
+* Javascript and Typescript.
+* Python.
+* Git y Github.
+* Docker.
+* React.
+  
+* **Technical Skills Base On:**
+* Computer Science.
+* Sytems Engenieering.
+  
+* **Education:**
+* Platzi.
+* University for Development and Investigation (Barancabermeja/Columbia)
+  
+* **Contributions:**
+  
+
