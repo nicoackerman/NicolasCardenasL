@@ -2,8 +2,6 @@
 
 ## 💻 Fullstack Developer
 
----
-
 ### 🚀 About Me
 I'm a fullstack developer from **Colombia** with over **1 year of experience** in the IT industry.  
 Although my professional journey began recently, I’ve been coding **personal projects for more than 3 years**.
@@ -14,8 +12,6 @@ I enjoy working on projects that challenge me to grow as a developer while creat
 - 💻 Passionate about crafting **scalable apps**
 - 🌍 Open to collaborating on exciting projects **worldwide**
 - 📚 Always learning and experimenting with new tools and technologies
-
----
 
 ### 🛠️ Tech Stack
 
