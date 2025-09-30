@@ -10,4 +10,3 @@ My expertise lies in building **modern web applications** using **React**, **Typ
 I enjoy working on projects that challenge me to grow as a developer while creating solutions that are **clean**, **functional**, and **user-friendly**.
 
 👉 [**Check out my portfolio**](https://nicoportfolio.vercel.app/)
-Tt
