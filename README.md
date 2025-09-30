@@ -1,41 +1,39 @@
-### Welcome to Nicolas's GitHub Profile! 👋
+# 👋 Hi, I'm Nicolás Andrés!
 
-**Hello there, I'm Nicolas!**
+## 💻 Fullstack Developer
 
-#### About Me:
+---
 
-- 💡 I'm passionate about software development, particularly in the realm of financial technology.
-- 🌱 I'm constantly learning and expanding my skills, with a current focus on mastering JavaScript, TypeScript, and Python.
-- 💼 I thrive on challenging projects that push me to grow and innovate.
+### 🚀 About Me
+I'm a fullstack developer from **Colombia** with over **1 year of experience** in the IT industry.  
+Although my professional journey began recently, I’ve been coding **personal projects for more than 3 years**.
 
-#### My Projects:
+My expertise lies in building **modern web applications** using **React**, **TypeScript**, and the **T3 Stack**.  
+I enjoy working on projects that challenge me to grow as a developer while creating solutions that are **clean**, **functional**, and **user-friendly**.
 
-- 📊 **Financial App for National Statistics in Colombia**: A robust application designed to streamline financial data analysis for National Statistics in Colombia.
+- 💻 Passionate about crafting **scalable apps**
+- 🌍 Open to collaborating on exciting projects **worldwide**
+- 📚 Always learning and experimenting with new tools and technologies
 
-#### Connect with Me:
+---
 
-- 🔗 [Visit my Portfolio](#) (Coming soon!)
+### 🛠️ Tech Stack
 
-#### Development Skills:
+#### Frontend
+- **Next.js**, **React**, **TypeScript**, **JavaScript**, **TailwindCSS**, **Astro**, **Shadcn**
 
-- 💻 JavaScript and TypeScript.
-- 🐍 Python.
-- 📦 Git and GitHub.
-- 🐳 Docker.
-- ⚛️ React.
+#### Backend
+- **Node.js**, **Express**, **Convex**, **Clerk**
 
-#### Technical Skills Based On:
+#### Database
+- **MySQL**
 
-- 🎓 Computer Science.
-- 📡 Systems Engineering.
+#### Other Tools
+- **Git**, **Terminal**
 
-#### Education:
+---
 
-- 🏫 Platzi.
-- 🏫 University for Development and Investigation (Barancabermeja, Colombia).
-
-#### Contributions:
-
-- 🌟 Open-source contributions: [GitHub Profile](#) (Coming soon!)
-
-Feel free to explore my projects and reach out for collaboration opportunities! 🚀
+### 💼 Experience
+- Built multiple **personal** and **freelance projects** using modern technologies  
+- Focused on **clean UI/UX**, **scalability**, and **responsive design**  
+- Continuously improving skills through **hands-on development** and **problem solving**
